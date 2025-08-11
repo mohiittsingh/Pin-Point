@@ -1,4 +1,5 @@
-const socket = io();
+const socket = io("https://your-app-name.onrender.com");
+
 
 if (navigator.geolocation) {
     navigator.geolocation.watchPosition(
