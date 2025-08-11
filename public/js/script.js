@@ -1,4 +1,4 @@
-const socket = io("https://your-app-name.onrender.com");
+const socket = io("https://pin-point-b4dr.onrender.com");
 
 
 if (navigator.geolocation) {
